@@ -10,7 +10,7 @@ First: [install Docker Desktop](https://desktop.docker.com/win/main/amd64/Docker
 
 Then, from a command line:
 ```
-docker run deepdream_demo
+docker run ghcr.io/ezekiel-da/deepdream_demo
 ```
 
 # How to rebuild this container image
